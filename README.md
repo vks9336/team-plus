@@ -48,8 +48,7 @@ A modern, role-based dashboard application built with React, Redux Toolkit, and 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd role-based-views
+git clone https://github.com/vks9336/team-plus.git
 ```
 
 2. Install dependencies:
